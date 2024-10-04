@@ -1,6 +1,6 @@
 'use client'
 
-import { Button, Flex, Heading, Input, Link, } from '@chakra-ui/react';
+import { Button, Flex, Heading, Input, Link, Box, Icon, Text } from '@chakra-ui/react';
 import { IoIosWarning } from 'react-icons/io';
 import NextLink from 'next/link'
 import Header from '../components/Header';
